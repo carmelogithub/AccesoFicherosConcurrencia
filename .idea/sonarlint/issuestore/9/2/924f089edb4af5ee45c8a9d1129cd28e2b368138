@@ -1,0 +1,10 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·§•”î1J$30dbaeae-c8a3-43b4-9420-2c5a8b3d38b9
+]
+java:S1220""Move this file to a named package.8º§•”î1J$465c1ab6-d5f7-4081-9e4c-f3a9aa2e7cd6
+‘
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(Óå‰Œşÿÿÿÿ8á§•”î1J$4a85883b-4488-4388-8e54-125a4a5ecb70
+”
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÜŸòÁıÿÿÿÿ8â§•”î1J$977910c1-b163-4630-b06e-b4eeaf548ae2
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8û§•”î1J$ee85533b-6482-4d33-81b1-96fdd277b483

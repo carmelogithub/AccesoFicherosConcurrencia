@@ -1,0 +1,5 @@
+Operaciones matemáticas
+la suma es 8
+la resta es 2
+la multiplicacion es 15
+la division es 1.6666666666666667
